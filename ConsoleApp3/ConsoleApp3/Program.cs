@@ -1,0 +1,1 @@
+﻿GenJwt.Program2.Main([]);

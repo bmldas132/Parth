@@ -1,0 +1,13 @@
+[
+  {
+    "ContainingType": "WebApplication5.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "v1/WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [],
+    "EndpointName": "GetWeatherForecast"
+  }
+]
